@@ -102,15 +102,9 @@ To analyze sales performance and generate insights using data analysis and visua
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ## Author
 
-**Anmol Roy**
+**Anmol Ray**
 
 ---
 
