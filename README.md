@@ -1,71 +1,120 @@
- ## Super Store Sales Dashboard | Power BI Project
- 
+# SUPER STORE SALES DASHBOARD | POWER BI PROJECT
+
 ## Project Overview
 
 • This project is an interactive Super Store Sales Dashboard built using Power BI to analyze sales data and gain meaningful insights related to sales, profit, orders, and customer segments.
 
 • The goal of this project is to transform raw sales data into a visual and interactive dashboard that helps in better decision-making and performance tracking.
 
+---
 
-## Project Highlights:
+## Tech Stack
 
-### Data Cleaning & Transformation
+- Power BI  
+- Power Query Editor  
+- DAX (Basic)  
+- Excel / CSV Dataset  
 
-• Cleaned and transformed data using Power Query Editor
+---
 
-• Checked and corrected data types
+## Data Source
 
-• Handled missing/null values and replaced incorrect values
+Raw sales data provided in Excel / CSV format:
 
-• Removed unnecessary columns and structured the dataset
+- SuperStore_Sales_Dataset.csv  
+- Super Store Sales Dataset.xlsx  
 
-### Key Insights (KPIs)
+---
 
-• Total Sales: 1.6M
+## Data Cleaning & Transformation
 
-• Total Profit: 175K
+- Cleaned and transformed raw sales data using Power Query Editor  
+- Checked and corrected data types  
+- Handled missing/null values  
+- Replaced incorrect values  
+- Removed unnecessary columns  
+- Structured the dataset for analysis  
 
-• Total Orders: 22K
+---
 
-• Ship Data Insights
+## Dashboard Overview
 
+### • Sales Analysis
+- Sales by Payment Mode (Donut Chart)  
+- Sales by Region (Donut Chart)  
+- Sales by Segment (Donut Chart)  
+- Monthly Sales Analysis  
+- Monthly Profit Analysis  
 
-### Dashboard Creation
+### • Product & Shipping Analysis
+- Sales by Ship Mode (Bar Chart)  
+- Sales by Category (Bar Chart)  
+- Sales by Sub-Category (Bar Chart)  
 
-• Designed an interactive and visually appealing dashboard
+### • Regional Analysis
+- Sales & Profit by State (Map Visualization)  
 
-• Implemented various visualizations:
+---
 
-• Sales by Payment Mode (Donut Chart)
+## Key Insights
 
-• Sales by Region (Donut Chart)
+- Office Supplies category generated the highest sales  
+- Standard Class shipping mode contributed the most orders  
+- Consumer segment generated the largest sales share  
+- Online payments dominated over Cards and COD  
+- East region recorded the highest sales performance  
+- Phones and Chairs were among the top-performing sub-categories  
 
-• Sales by Segment (Donut Chart)
+---
 
-• Monthly Sales (Year-wise Analysis)
+## KPI
 
-• Monthly Profit (Year-wise Analysis)
+-  Total Sales: **1.6M**  
+-  Total Profit: **175K**  
+-  Total Orders: **22K**  
+-  Ship Data Insights  
 
-• Sales by Ship Mode (Bar Chart)
+---
 
-• Sales by Category (Bar Chart)
+## Dashboard Features
 
-• Sales by Sub-Category (Bar Chart)
+- Interactive slicers and filters  
+- Region-wise performance analysis  
+- Year-wise monthly sales and profit tracking  
+- Business-focused insights for better decision making  
+- Clean and user-friendly dashboard design  
 
-• Sales & Profit by State (Map Visualization)
+---
 
-### Features
-
-• Region-wise filtering using slicers
-
-• Clear visualization of trends and patterns
-
-• Business-focused insights for decision making
-
-### Objective:
+## Objective
 
 To analyze sales performance and generate insights using data analysis and visualization techniques, along with basic forecasting understanding.
 
-### Skills Gained:
+---
 
-Power BI | Data Cleaning | Data Visualization | Business Insights
+## Skills Gained
+
+- Data Cleaning & Transformation  
+- Data Visualization  
+- Dashboard Design  
+- Business Insight Generation  
+- Power BI Reporting  
+
+---
+
+## Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+---
+
+## Author
+
+**Anmol Roy**
+
+---
+
+## Connect With Me
+
+**LinkedIn:**  
+www.linkedin.com/in/anmol-ray-7176a0397
