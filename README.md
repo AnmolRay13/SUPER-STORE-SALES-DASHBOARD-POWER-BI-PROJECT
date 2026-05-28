@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-• This project is an interactive Super Store Sales Dashboard built using Power BI to analyze sales data and gain meaningful insights related to sales, profit, orders, and customer segments.
+This project is an interactive Super Store Sales Dashboard built using Power BI to analyze sales data and gain meaningful insights related to sales, profit, orders, and customer segments.
 
-• The goal of this project is to transform raw sales data into a visual and interactive dashboard that helps in better decision-making and performance tracking.
+The goal of this project is to transform raw sales data into a visual and interactive dashboard that helps in better decision-making and performance tracking.
 
 ---
 
